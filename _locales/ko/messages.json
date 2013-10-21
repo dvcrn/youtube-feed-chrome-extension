@@ -1,6 +1,6 @@
 ﻿{
   "extName": {
-    "message": "YouTube 피드",
+    "message": "YouTube 피드(업데이트)",
     "description": "Extension name"
   },
   "extDescription": {
@@ -8,7 +8,7 @@
     "description": "Extension description"
   },
   "extTitle": {
-    "message": "YouTube 피드",
+    "message": "YouTube 피드(업데이트)",
     "description": "Extension title"
   },
   "messageNoFeedItems": {

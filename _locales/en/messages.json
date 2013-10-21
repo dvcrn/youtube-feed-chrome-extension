@@ -1,14 +1,14 @@
 {
   "extName": {
-    "message": "YouTube Feed",
+    "message": "YouTube Feed (updated)",
     "description": "Extension name"
   },
   "extDescription": {
-    "message": "Notifies the user of new videos in the YouTube Homepage Feed",
+    "message": "Fixed version of the YouTube Feed extension. Notifies the user of new videos in the YouTube Homepage Feed",
     "description": "Extension description"
   },
   "extTitle": {
-    "message": "YouTube Feed",
+    "message": "YouTube Feed (updated)",
     "description": "Extension title"
   },
   "messageNoFeedItems": {
